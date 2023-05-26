@@ -1,5 +1,5 @@
 {
-  "name": "end",
+  "name": "eleventy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0"
+  },
+  "engines": {
+    "node": "14"
   }
 }
