@@ -10,10 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "@11ty/eleventy": "^2.0.0"
-  },
-  "engines": {
-    "node": "14"
   }
 }
