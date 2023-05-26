@@ -1,0 +1,4 @@
+# Should build site on CDN
+_site
+# exclude node_modules
+node_modules
